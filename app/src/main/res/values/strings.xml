@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Personajes Arena</string>
+
+    <string name="search_placeholder">Buscar personaje…</string>
+    <string name="filter_all">ALL</string>
+    <string name="filter_tank">TANK</string>
+    <string name="filter_mage">MAGE</string>
+    <string name="filter_assassin">ASSASSIN</string>
+    <string name="filter_adc">ADC</string>
+    <string name="filter_support">SUPPORT</string>
+
+    <string name="action_call">Llamar</string>
+    <string name="action_website">Sitio Oficial</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_location">Ubicación</string>
+
+    <string name="empty_state_title">Sin resultados</string>
+    <string name="empty_state_subtitle">No se encontraron personajes con ese filtro o búsqueda</string>
+    <string name="loading_label">Cargando personajes…</string>
+
+    <string name="model_viewer_placeholder">Modelo 3D no disponible todavía</string>
+    <string name="model_viewer_hint">Coloca tu archivo .glb en assets/models/</string>
+
+    <string name="share_template">Conoce a %1$s, categoría %2$s. %3$s</string>
+    <string name="content_description_character_image">Imagen del personaje</string>
+    <string name="back_button">Volver</string>
+</resources>
