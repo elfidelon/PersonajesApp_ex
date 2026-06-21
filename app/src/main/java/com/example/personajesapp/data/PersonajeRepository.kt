@@ -13,7 +13,7 @@ object PersonajeRepository {
             nombre = "Charmander",
             categoria = Categorias.ADC,
             descripcion = "Veloz y ofensivo a distancia. Lanza ráfagas de fuego que " +
-                "debilitan a los enemigos antes de que puedan acercarse.",
+                "debilitan a los enemigos antes de que puedan acercarseefwefwc.",
             imagenPrincipal = R.drawable.charmander,
             imagenes = listOf(R.drawable.charmander),
             modelo3D = "models/charmander.glb",
