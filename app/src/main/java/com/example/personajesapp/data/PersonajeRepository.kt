@@ -101,32 +101,7 @@ object PersonajeRepository {
             paginaWeb = "https://personajesarena.example.com/bulbasaur",
             ubicacion = "21.1250,-101.6860" // León, Guanajuato
         ),
-        Personaje(
-            id = 3,
-            nombre = "Pikachu",
-            categoria = Categorias.MAGE,
-            descripcion = "Canaliza poderosas descargas eléctricas para paralizar y " +
-                    "derrotar a sus oponentes desde la distancia.",
-            imagenPrincipal = R.drawable.pikachu,
-            imagenes = listOf(R.drawable.pikachu),
-            modelo3D = "",
-            telefono = "+52 477 100 10 03",
-            paginaWeb = "https://personajesarena.example.com/pikachu",
-            ubicacion = "20.6719,-103.3488" // Guadalajara
-        ),
-        Personaje(
-            id = 7,
-            nombre = "Oddish",
-            categoria = Categorias.SUPPORT,
-            descripcion = "Esparce polen nocturno que debilita a los enemigos mientras " +
-                    "fortalece la vitalidad de su equipo.",
-            imagenPrincipal = R.drawable.oddish,
-            imagenes = listOf(R.drawable.oddish),
-            modelo3D = "models/oddish.glb",
-            telefono = "+52 477 100 10 07",
-            paginaWeb = "https://personajesarena.example.com/oddish",
-            ubicacion = "20.9674,-89.6243" // Mérida
-        )
+
 
     )
 
